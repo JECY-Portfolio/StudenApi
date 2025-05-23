@@ -1,0 +1,6 @@
+@StudenApi_HostAddress = http://localhost:5257
+
+GET {{StudenApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
